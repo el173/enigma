@@ -1,0 +1,3 @@
+[submodule "enigmacipher"]
+	path = enigmacipher
+	url = /home/el173/omobio/enigma/enigmacipher
